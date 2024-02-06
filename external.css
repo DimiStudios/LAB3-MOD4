@@ -51,22 +51,3 @@ body {
         border-color: #259650;
     }
 }
-
-@media screen and (max-width: 768px) {
-    .retro-button {
-        padding: 8vw 15vw;
-        font-size: 5vw;
-        width: 80vw;
-    }
-}
-
-@media screen and (max-width: 480px) {
-    .retro-text {
-        font-size: 8vw;
-    }
-    .retro-button {
-        padding: 12vw 20vw;
-        font-size: 6vw;
-        width: 90vw;
-    }
-}
