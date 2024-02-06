@@ -41,12 +41,12 @@ body {
 
 @keyframes borderAnimation {
     0% {
-        border-color: #362596; /* Azul */
+        border-color: #5c9625; 
     }
     50% {
-        border-color: #138ea3; /* Morado */
+        border-color: #259625; 
     }
     100% {
-        border-color: #2161a5; /* Azul */
+        border-color: #259650;
     }
 }
