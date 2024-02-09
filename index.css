@@ -41,12 +41,12 @@ body {
 
 @keyframes borderAnimation {
     0% {
-        border-color: #5c9625; 
+        border-color: #91ff00; 
     }
     50% {
-        border-color: #259625; 
+        border-color: #33ff00; 
     }
     100% {
-        border-color: #259650;
+        border-color: #00ff37;
     }
 }
