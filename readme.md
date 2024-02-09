@@ -6,8 +6,6 @@ Este es un portafolio diseñado utilizando los lenguajes de marcado HTML, CSS y 
 
 1. **Index:** [https://dimistudios.github.io/LAB3-MOD4/](https://dimistudios.github.io/LAB3-MOD4/)
 
-## Detalles de Implementación
-
 ### HTML (Index)
 
 En el HTML, se utilizaron elementos como `<h1>` para el título y `<button>` para los botones que redirigen a las subpáginas.
