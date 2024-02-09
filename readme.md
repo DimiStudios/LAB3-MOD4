@@ -1,22 +1,22 @@
-# Repositorio de Mini Páginas Web
+# Portafolio utilizando HTML, CSS y JavaScript
 
-¡Bienvenido al repositorio de Mini Páginas Web! Aquí encontrarás cinco pequeñas páginas web diseñadas para demostrar diferentes conceptos y técnicas web.
+Este es un portafolio diseñado utilizando los lenguajes de marcado HTML, CSS y JavaScript. Las páginas web están alojadas en GitHub en un repositorio denominado [LAB3-MOD4](https://github.com/DimiStudios/LAB3-MOD4.git).
 
-## Páginas Disponibles
+## Páginas
 
-### 📋 Menú:
-La página de menú contiene 4 botones que redireccionarán a las siguientes páginas.
+1. **Index:** [https://dimistudios.github.io/LAB3-MOD4/](https://dimistudios.github.io/LAB3-MOD4/)
 
-### 📄 Página 1:
-En esta página se ha utilizado HTML y CSS para crear una estructura básica y darle estilo a mi nombre "Diana Michelle Barrantes Gallardo".
+## Detalles de Implementación
 
-### 🔢 Página 2:
-Aquí se han empleado HTML y CSS para mostrar los números del 1 al 10 de forma ordenada y estilizada. Además, se ha añadido interactividad mediante CSS para hacer que los números se agranden al pasar el cursor sobre ellos.
+### HTML (Index)
 
-### 📘 Página 3:
-En esta página se ha utilizado HTML y CSS para mostrar el título de la materia "Sistemas informáticos COM-203ES" junto con un botón que lleva a la página de la materia. Se ha aplicado un diseño similar al de las páginas anteriores para mantener la coherencia visual.
+En el HTML, se utilizaron elementos como `<h1>` para el título y `<button>` para los botones que redirigen a las subpáginas.
 
-### ⏰ Página 4:
-Para esta página se ha utilizado HTML, CSS y JavaScript. El JavaScript se ha utilizado para obtener la fecha y hora actual en Perú y mostrarla en la página. Además, se ha aplicado un diseño estilizado con CSS para mejorar la apariencia general.
+### CSS (Index)
 
-Cada página ha sido diseñada cuidadosamente para demostrar diferentes aspectos de la creación de páginas web, incluyendo estructura HTML, estilizado con CSS y funcionalidad interactiva con JavaScript.
+En el CSS, se gestionó el diseño de elementos como `body`, `container`, `text` y `button`. Se ajustaron márgenes, fondos, decoraciones del texto, colores y se añadieron animaciones en el borde para mejorar la estética y la experiencia visual.
+
+### JavaScript (Index)
+
+JavaScript se utilizó exclusivamente para proporcionar funcionalidad a los botones, permitiendo que redirijan a las subpáginas correspondientes.
+
