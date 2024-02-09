@@ -1,9 +1,9 @@
-# Repositorio de Mini Páginas Web
+# <span style="color:yellow">Repositorio de Mini Páginas Web</span>
 
-¡Bienvenido al repositorio de Mini Páginas Web! Aquí encontrarás cinco pequeñas páginas web diseñadas para demostrar diferentes conceptos y técnicas web.
+¡Bienvenido al <span style="color:yellow">repositorio de Mini Páginas Web</span>! Aquí encontrarás cinco pequeñas páginas web diseñadas para demostrar diferentes conceptos y técnicas web.
 
-- **Menú:** La página de menú contiene 4 botones que redireccionarán a las siguientes páginas.
-- **Página 1:** Encontrará mi nombre, Diana Michelle Barrantes Gallardo.
-- **Página 2:** Verá los números del 1 al 10.
-- **Página 3:** Mostrará el título de la materia.
-- **Página 4:** Proporcionará la fecha y hora actual en Perú.
+- <span style="color:yellow">Menú:</span> La página de menú contiene 4 botones que redireccionarán a las siguientes páginas.
+- <span style="color:yellow">Página 1:</span> Encontrarás mi nombre, Diana Michelle Barrantes Gallardo.
+- <span style="color:yellow">Página 2:</span> Verás los números del 1 al 10.
+- <span style="color:yellow">Página 3:</span> Mostrará el título de la materia.
+- <span style="color:yellow">Página 4:</span> Te proporcionará la fecha y hora actual en Perú.
