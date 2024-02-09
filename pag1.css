@@ -11,6 +11,22 @@ body {
     height: 100vh;
 }
 
+
+.back-button {
+    background-color: transparent;
+    border: 2px solid #fff; 
+    border-radius: 20px; 
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+    padding: 10px 20px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    transition: background-color 0.3s, border-color 0.3s;
+    text-decoration: none;
+}
+
 .profile {
     text-align: center;
     background-color: #fff;
